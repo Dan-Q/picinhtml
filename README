@@ -10,11 +10,11 @@ Prerequisites:
 
 Usage:
 
- ruby picinhtml.rb image-file text-file
+ ruby picinhtml.rb image-file text-file posterization-level
 
 Usage example:
 
- ruby picinhtml.rb my-cat.jpg magna-carta.txt > output.html
+ ruby picinhtml.rb my-cat.jpg magna-carta.txt 20 > output.html
 
 Samples:
 
@@ -26,7 +26,7 @@ Two sample images, text files, and their outputs are included in the examples di
 Recommendations:
 
  * This application produces monsterously huge HTML files. Keep your image files small to minimize their enormity. As a maximum, I suggest no more than 10,000 pixels (100x100), or else the resulting output is liable to crash web browsers.
- * The tool optimises for color reuse. Posterised images, and those with fewer colors will always work better. GIF and PNG images tend to work better than JPGs.
+ * The tool optimises for color reuse. The LOWER the posterization-level, the smaller and simpler the output file, but the fewer colors used: try starting with 20 for photos, 10 for logos/line art, and adapting as necessary.
 
 License:
 
