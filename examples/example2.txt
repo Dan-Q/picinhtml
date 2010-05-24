@@ -1,0 +1,354 @@
+
+Terms and conditions for software development and licensing
+
+These terms and conditions apply to all Development and other services provided by SmartData UK Limited to the Client. These terms and conditions apply notwithstanding any other terms and conditions on Client.s order forms or other documentation referred to or supplied by the Client.
+1 Definitions
+
+In these terms and conditions, unless the context otherwise requires, the following expressions have the following meanings:
+
+.Acceptance Date. the date on which the New Software is accepted (or deemed to be accepted) by the Client pursuant to clause 7.3
+
+.Acceptance Tests. the tests specified in these terms and conditions and/or such other tests as may be agreed in writing between the Client and the Developer
+
+.Additional Services. any additional services requested by the Client to be provided by the Developer as set out in Schedule 5
+
+.Change Request.   a request for a change made by the Client or the Developer
+
+.Confidential Information. shall include, but not necessarily be limited to, all information which is not publicly known including the business, finances, technology trade secrets, and any other commercially sensitive information of either party regardless of its nature
+
+.Contract. means the contract for the supply of Services and the Licence formed when Developer accepts Client.s offer as described in clause 2 below
+
+.Development Services. the software development, procurement, consulting and computer programming services required to produce the New Software
+
+.Documentation.   the documentation set out in Part 2 of Schedule 1
+
+.Implementation Plan.   the timing and sequence of events agreed between the Client and the Developer for the performance of these terms and conditions, as set out in Schedule 2
+
+.Intellectual Property Rights. all copyright and other intellectual property rights, howsoever arising and in whatever media, whether or not registered, including (without limitation) patents, trade marks, service marks, trade names, registered design and any applications for the protection or registration of these rights and all renewals and extensions thereof throughout the world
+
+.Licence. the licence granted by the Developer to the Client pursuant to clause 10
+
+.Licence Restrictions. means those restrictions on Client.s use of the New Software set out in Schedule 1 Part 4.
+
+.Payment Schedule. the payment schedule set out in Schedule 3
+
+.Planned Acceptance Date. the date specified in the Implementation Plan on which the New Software is intended to be accepted by the Client in accordance with these terms and conditions
+
+.Price. the price for the provision of the New Software, the Licence and the Documentation set out in Schedule 3 Part 1
+
+.Project. the development, delivery and testing of the New Software and supply of Services
+
+.Rates. the rates set out in Schedule 3 Part 2
+
+.New Software. the software being developed or customised by the Developer for the Client, details of which are set out in the Specification, including any enhancements and modifications made
+
+.Services. means Development Services and Additional Services and other services to be purchased by the Client from Developer under a Contract.
+
+.Source Software. the software, details of which are set out in Schedule 4, being the software owned by the Client upon which the New Software is to be developed in accordance with these terms and conditions
+
+.Specified System. the configuration of computer or computers, including operating systems and/or other software and interfaces, on which the New Software is to function as specified in Part 3 of Schedule 1
+
+.Specification. the specification of the New Software set out in Part 1 of Schedule 1
+
+.System. collectively the Specified System and the New Software
+
+.Warranty Period. the period of 3 months after the Acceptance Date
+2 Background and Acceptance of Order
+
+2.1 The Client wishes to purchase certain Services as set out in the Specification or as described in Developer.s quotation and offers to purchase these Services subject to these terms and conditions.
+
+2.2 Developer.s acceptance of the Client.s offer for the Services will be notified to the Client in writing. Developer will not be obliged to carry out the Services for the Client until it has accepted the Client.s order and received any down payment required by Developer. Developer may change the Specification or the Price at any time up to acceptance of the order by Developer. Developer is not obliged to accept Client offers.
+
+2.3 Where Developer has agreed to supply the Services to the Client the Services will be supplied under a Contract that is subject to the following terms and conditions (.the Contract.).
+3 The Project
+
+3.1 The Developer shall provide the Client with Development Services for the purpose of creating the New Software as detailed in the Specification; install and test the New Software on the Specified System; provide the Documentation and carry out any Additional Services agreed by the parties.
+
+3.2 The Developer shall carry out the obligations set out in clause 3.1 in accordance with the Implementation Plan.
+
+3.3 The Developer shall supply to the Client the object and/or source code of the New Software in accordance with the Specification.
+
+3.4 The Developer shall license the New Software to the Client in accordance with clause 10.
+
+3.5 Where the Client requires the Developer to provide training, support and maintenance in relation to the New Software, both parties shall enter into a separate support and maintenance agreement, the terms of which shall be agreed between the parties.
+4 Personnel
+
+The Developer shall ensure that all of its personnel engaged in the Project:
+
+4.1 have the necessary skills, expertise and diligence to undertake such work.
+
+4.2 comply with the provisions in these terms and conditions relating to Confidential Information.
+5 The Client.s obligations
+
+The Client shall:
+
+5.1 deliver the Source Software to the Developer in a form suitable for the Developer to carry out the Development Work;
+
+5.2 make available to the Developer, free of charge, such computer facilities (including but not limited to unhindered access to the Specified System), office and secretarial services as are necessary to enable the Developer to carry out its obligations under these terms and conditions;
+
+5.3 ensure that its employees and other independent contractors co-operate reasonably with the Developer and its employees in carrying out the Project;
+
+5.4 promptly furnish the Developer with such information and documents as it may reasonably request for the proper performance of its obligations under these terms and conditions; and
+
+5.5 ensure that its representative is available as reasonably required by the Developer; and
+
+5.6 obtain all necessary consents and permissions required before the commencement of the Services.
+6 Change control
+
+6.1 If either party identifies a requirement for a change, a Change Request will be sent to the other party detailing the change requirements. If sent by the Developer, the Change Request shall state the effect such a change shall have on the New Software, the Implementation Plan and the Price. If sent by the Client, the receipt of the Change Request by the Developer will constitute a request to the Developer to state in writing the effect such a change shall have on the New Software, the Implementation Plan and the Price. The Developer shall use all reasonable endeavours to supply the necessary details within 10 working days from receipt of the Change Request or such other period as may be agreed.
+
+6.2 Where a change to the Price is required, the rates used as the basis for the additional cost for the Change Request shall be the Rates as detailed in Schedule 3. The parties will then decide whether or not to implement the change. If the change is implemented, the amended New Software, Implementation Plan or Price shall then become the New Software, Implementation Plan and Price for the purpose of these terms and conditions.
+
+6.3 The Developer shall not implement any changes unless instructed to do so by the Client.
+
+6.4 Where the work required to reply to a Client requested Change Request is significant the Developer may charge the Client for this work at the Rates.
+7 Acceptance tests
+
+7.1 The Acceptance Tests shall be agreed by the parties in accordance with the Implementation Plan.
+
+7.2 The Developer shall use its reasonable endeavours to ensure that the New Software is ready for acceptance testing by the Planned Acceptance Date. In any event, the Developer shall give the Client 5 working days. prior notice in writing of the date when it will be ready to commence the Acceptance Tests. Unless otherwise agreed, the Acceptance Tests shall take place on the sixth working day after such notice has been given.
+
+7.3 The Client shall accept the New Software immediately after the New Software has passed the Acceptance Tests.
+
+7.4 If the New Software fails to pass the Acceptance Tests, repeat tests shall be carried out until the earlier of the following occurs:
+
+7.4.1 the New Software passes the Acceptance Tests;
+
+7.4.2 the Acceptance Tests have been repeated 3 times; or
+
+7.4.3 the Client and Developer vary the Acceptance Tests and the New Software passes the varied Acceptance Tests.
+
+7.5 If at any time the Client shall commence live running of the whole or any part of the New Software (other than in the Acceptance Tests) then the Client shall be deemed to have accepted the New Software.
+
+7.6 If the New Software has not been accepted by the Client on or after the occurrence of the events specified in clauses 7.4.2, then where the failure is not due to breach of the Client.s obligations under these terms and conditions, the Client shall be entitled to terminate forthwith these terms and conditions by written notice upon the Developer.
+
+7.7 For the avoidance of doubt time shall not be of the essence.
+8 Representatives and progress meetings
+
+8.1 Each party shall nominate in writing upon the signing of these terms and conditions, the person who will act as its representative for the purposes of these terms and conditions and who will be responsible for providing any information which may be required by the other party to perform its obligations under these terms and conditions.
+
+8.2 The parties shall procure that their respective representatives will meet at least once a month between the date of these terms and conditions and the Planned Acceptance Date to discuss and minute the progress of the Project.
+9 Warranties
+
+9.1 The Developer warrants that:
+
+9.1.1 it is entitled to enter into these terms and conditions and that it is entitled to grant the Licence in accordance with these terms and conditions;
+
+9.1.2 the New Software shall perform substantially in accordance with the Specification on the Specified System, minor interruptions and errors excluded;
+
+9.1.3 the Documentation will provide users with adequate instructions to enable them effectively to operate and use the New Software;
+
+9.2 The Developer shall not be liable under clause 9.1.2 if a failure to meet the warranties set out in it is caused by:
+
+9.2.1 software other than the New Software running on the Specified System; or
+
+9.2.2 modifications or customisation made by or on behalf of the Client to the New Software, without the authorisation of the Developer; or
+
+9.2.3 Client provided information or materials or Source Software or breach of the Client.s obligations under these terms and conditions.
+
+9.3 If the Developer receives a written notice from the Client identifying a breach of the warranties set out in clause 9.1, or otherwise becomes aware of its failure to comply with the warranties set out in clause 9.1, then the Developer shall, at its own expense, promptly remedy such breach or failure provided that the Developer shall have no liability or obligations under the warranties unless it shall have received written notice of the defect or error within the Warranty Period.
+
+9.4 The Developer.s warranty is not assignable and is only applicable to the Client.
+
+9.5 Support and service of the New Software after warranty may be supplied by the Developer on agreement of a separate maintenance and support contract.
+10 Licence
+
+10.1 On payment in full of the Price, the Developer grants to the Client a non-exclusive, perpetual, non-transferrable right to use the New Software and the Documentation on any processor owned or controlled by the Client subject to the relevant Licence Restrictions.
+
+10.2 The Client may not disclose or make available the New Software to any entity nor permit others to use it except the Client's employees and agents who may use it only on the Client's behalf within the limits of the application licence and who are deemed to have agreed to such terms.
+11 Proprietary Rights
+
+11.1 The Intellectual Property Rights in the Source Software (including the source and object code) together with any related materials or documentation are and shall remain the property of the Client. The Developer shall notify the Client immediately if the Developer becomes aware of any unauthorised use of the whole or any part of the Source Software by any person.
+
+11.2 The Intellectual Property Rights in the New Software (including the source and object code) and the Documentation shall be and remain vested in the Developer. Copyright in the final version of distinctive client features that are unique to the Client shall be and remain vested in the Client. Notwithstanding the foregoing, the Developer shall not be prevented from using knowledge and skills learned during the Project in its business.
+
+11.3 If the Specification states that the Intellectual Property in the New Software (or part thereof) is to vest in the Client then the Developer shall be granted a free of charge right to use such Intellectual Property in its business (including licensing it to third parties) provided the distinctive client features of that New Software are not infringed. No transfer of Intellectual Property Rights in New Software shall prevent the Developer from using or exploiting ideas or methodology learned during the Project or included in the New Software or from using or exploiting knowledge or parts of code used in the New Software for other applications and developments.
+
+11.4 The Developer will indemnify the Client on demand against all costs, claims, demands, expenses and liabilities of whatsoever nature arising out of or in connection with any claim that the use or possession of the New Software infringes the Intellectual Property Rights of any third party subject to the following conditions:
+
+11.4.1 The Client shall promptly notify the Developer in writing of any allegations of infringement of which it is aware and shall not make any admissions without the Developer's prior written consent;
+
+11.4.2 The Client, at the Developer's request and expense, shall allow the Developer to conduct and/or settle all negotiations and litigation resulting from any such claim subject to the Developer taking over such conduct within 20 working days after being notified of the claim; and 11.4.3 The Client shall, at the request of the Developer, afford all reasonable assistance with such negotiations or litigation, and shall be reimbursed by the Developer on demand for all expenses incurred in doing so.
+
+11.5 If the Client's use or possession of the New Software or any part of the New Software in accordance with these terms and conditions, is held by a court of competent jurisdiction to constitute an infringement of a third party's Intellectual Property Rights, then the Developer shall promptly and at its own expense:
+
+11.5.1 procure for the Client the right to continue using and possessing the New Software or the infringing part; or
+
+11.5.2 modify or replace the New Software (or part thereof) without detracting from the overall performance of the New Software, so as to avoid the infringement.
+
+11.6 If the remedies set out in clause 11.5 above are not in the Developer.s opinion reasonably available, then the Client shall return the New Software which is the subject of the intellectual property claim and the Developer shall refund to the Client the corresponding portion of the Price, as normally depreciated, whereupon these terms and conditions shall immediately terminate.
+12 Charges and expenses
+
+12.1 In consideration of the Developer carrying out the Project, the Client shall pay to the Developer the Price which shall be invoiced to the Client in the specified proportions set out in Schedule 3 and subject to the terms set out in clause 13.
+
+12.2 In consideration of any Additional Services, the Client shall pay to the Developer the amounts invoiced by the Developer to the Client based on the Rates set out in Part 2 of Schedule 3.
+
+12.3 The Client shall also pay or procure the payment to the Developer of all reasonable travelling and other out-of-pocket expenses incurred in the course of the Project.
+13 Terms of payment
+
+13.1 Payment of sums due by the Client to the Developer shall be made within 14 days of the receipt of an invoice from the Developer. All payments under these terms and conditions shall be made in Pounds Sterling.
+
+13.2 The Developer may increase the Rates provided that not less than 10 working days prior written notice has been given to the Client by the Developer.
+
+13.3 Where specified in the Specification, a one-off bonus as set out in the Specification shall be payable by the Client to Developer in the event that Developer completes the relevant Services in accordance with the Implementation Plan and in accordance with the Specification.
+
+13.4 All payments under these terms and conditions are exclusive of VAT, which shall be payable by the Client at the rate and in the same manner for the time being prescribed by law against submission of a valid tax invoice.
+
+13.5 Without prejudice to any other rights or remedies of the Developer, Payments that are not made on time shall bear interest both before and after judgement from the date the payment was due until receipt by the Developer at the rate of 2% above the base lending rate of the Bank of England from time to time.
+
+13.6 Where the Client requires an invoice to be submitted against a purchase order (or equivalent) then it is the Client.s responsibility to ensure that the requisite purchase order is issued in good time to the Developer. No terms and conditions on the Client.s purchase order will apply to the Project.
+
+13.7 Failure to make payment when due will entitle the Developer to suspend the Project without prior notice. Suspension is without prejudice to the Developer.s other rights and remedies against the Client. Client shall be responsible for all costs and liabilities that arise or are incurred as a result of a suspension for non-payment.
+14 Liability and insurance
+
+14.1 The Developer shall, during the term of these terms and conditions, maintain professional negligence insurance cover with an insurance company of repute.
+
+14.2 The Developer shall indemnify the Client for personal injury or death caused by the negligence of its employees in connection with the performance of their duties under these terms and conditions.
+
+14.3 Save in respect of claims for death or personal injury arising from the Developer.s negligence, in no event will the Developer be liable for any damages resulting from loss of data or use, lost profits, loss of anticipated savings, nor for any damages that are an indirect or secondary consequence of any act or omission of the Developer whether such damages were reasonably foreseeable or actually foreseen.
+
+14.4 Except as provided above in the case of personal injury, death and damage to tangible property, the Developer's maximum liability to the Client under these terms and conditions or otherwise for any cause whatsoever (whether in the form of the additional cost of remedial services or otherwise) will be for direct costs and damages only and will be limited to the greater of:
+
+14.4.1 the sum which the Developer recovers under its insurance policy pursuant to clause 14.1 above; or
+
+14.4.2 a sum equivalent to the price paid to the Developer for the products or services that are the subject of the Client's claim, plus damages limited to 10% of the same amount for any additional costs directly, reasonably and necessarily incurred by the Client in obtaining alternative products and/or services.
+
+14.5 The parties acknowledge and agree that the limitations contained in this clause 14 are reasonable in the light of all the circumstances.
+
+14.6 All liability that is not expressly assumed in these terms and conditions is excluded. These limitations will apply regardless of the form of action, whether under statute, in contract or tort including negligence or any other form of action. For the purposes of this clause, the .Developer. includes its employees, sub-contractors and suppliers who shall all have the benefit of the limits and exclusions of liability set out above in terms of the Contracts (Rights of Third Parties) Act 1999. Nothing in these terms and conditions shall exclude or limit liability for fraudulent misrepresentation.
+15 Termination
+
+15.1 These terms and conditions shall continue until completion of the Project unless terminated in accordance with any of the provisions of this clause 15 or any other clause of these terms and conditions.
+
+15.2 Either party shall be entitled to terminate these terms and conditions forthwith at any time by written notice to the other party if:
+
+15.2.1 the other party commits a breach of any of the terms of these terms and conditions (and if the breach is capable of remedy) fails to remedy the breach within 30 days after receipt of notice in writing to do so; or
+
+15.2.2 the other party becomes subject to an administration order; a receiver or administrative receiver or similar is appointed over, or an encumbrancer takes possession of any of the other party.s property or assets; the other party enters into an arrangement or composition with its creditors, ceases or threatens to cease to carry on business, becomes insolvent, or ceases to be able to pay its debts as they fall due.
+
+15.3 Forthwith upon the termination of these terms and conditions, the Developer shall return to the Client the Source Software, all related materials and documentation and any Confidential Information belonging to the Client and all copies of the whole or any part thereof or, if requested by the Client, shall destroy the same and certify in writing to the Client that it has been destroyed.
+
+15.4 Any termination of the Licence or these terms and conditions (howsoever occasioned) shall not affect any accrued rights or liabilities of either party nor shall it affect the coming into force or the continuance in force of any provision hereof which is expressly or by implication intended to come into or continue in force on or after such termination.
+16 Confidentiality
+
+16.1 Both during these terms and conditions and after its termination, the parties shall treat as confidential (and shall procure that its personnel and each of them treat as confidential) and shall not (and shall procure that their personnel and each of them does not) other than in the proper provision of the services required to fulfil the Project, use or disclose to any person, firm or company, any Confidential Information belonging to the other party or its clients, suppliers or clients, nor permit its use or disclosure. In particular, both parties shall maintain any source code provided by the other party under maximum security conditions.
+
+16.2 The provisions of clause 16.1 shall not apply where Confidential Information is divulged to:
+
+16.2.1 either party.s own employees and then only to those employees who need to know the same;
+
+16.2.2 either party.s auditors, an officer of Inland Revenue, an officer of HM Customs and Excise, a court of competent jurisdiction, governmental body or applicable regulatory authority and any other persons or bodies having a right, duty or obligation to know the business of the other party and then only in pursuance of such right, duty or obligation.
+
+16.3 Both parties undertake to ensure that persons and bodies referred to in clause 16.2 are made aware before the disclosure of any part of the Confidential Information that the same is confidential and that they owe a duty of confidence to the other party.
+
+16.4 Each party to these terms and conditions shall promptly notify the other party if it becomes aware of any breach of confidence by any person to whom it divulges all or any part of the Confidential Information and shall give the other party all reasonable assistance in connection with any proceedings which the other party may institute against such person for breach of confidence.
+
+16.5 The provisions of this clause shall survive the termination of these terms and conditions but the restrictions contained in clause 16.1 shall cease to apply to any information which may come into the public domain otherwise than through unauthorised disclosure.
+
+16.6 Nothing in this clause 16 shall prevent the Developer from exploiting any inventions or software that it develops during the term of a Contract.
+17 Data protection
+
+The parties undertake to comply with the provisions of the Data Protection Act 1998 and any related legislation in so far as the same relates to the provisions and obligations of these terms and conditions.
+18 Interpretation
+
+18.1 In these terms and conditions unless the context otherwise requires:
+
+18.1.1 words importing any gender include every gender;
+
+18.1.2 words importing the singular number include the plural number and vice versa;
+
+18.1.3 words importing persons include firms, companies and corporations and vice versa;
+
+18.1.4 references to numbered clauses and schedules are references to the relevant clause in or schedule to these terms and conditions;
+
+18.1.5 reference in any schedule to these terms and conditions to numbered paragraphs relate to the numbered paragraphs of that schedule;
+
+18.1.6 the headings to the clauses, schedules and paragraphs of these terms and conditions will not affect the interpretation;
+
+18.1.7 any reference to an enactment includes reference to that enactment as amended or replaced from time to time and to any subordinate legislation or byelaw made under that enactment;
+
+18.1.8 any obligation on any party not to do or omit to do anything is to include an obligation not to allow that thing to be done or omitted to be done;
+
+18.1.9 any party who agrees to do something will be deemed to fulfil that obligation if that party procures that it is done.
+
+18.2 In the case of conflict or ambiguity between any provision contained in the body of these terms and conditions and any provision contained in any Schedule, the provision in the body of these terms and conditions shall take precedence.
+19 Agency, partnership
+
+These terms and conditions shall not constitute or imply any partnership, joint venture, agency, fiduciary relationship or other relationship between the parties other than the contractual relationship expressly provided for in these terms and conditions.
+20 Amendments
+
+These terms and conditions may not be released, discharged, supplemented, interpreted, amended, varied or modified in any manner except by an instrument in writing signed by a duly authorised officer or representative of each of the parties.
+21 Announcements
+
+No party shall issue or make any public announcement or disclose any information regarding these terms and conditions unless prior written consent has been obtained from the other party.
+22 Assignment
+
+22.1 These terms and conditions is personal to the parties and, subject to clause 22.2 below, neither these terms and conditions nor any rights, licences or obligations under it may be assigned by either party without the prior written approval of the other party.
+
+22.2 Notwithstanding the foregoing, either party may assign these terms and conditions to any acquirer of all or of substantially all of such party.s equity securities, assets or business relating to the subject matter of these terms and conditions or to any entity controlled by, that controls, or is under common control with a party to these terms and conditions. Any attempted assignment in violation of this clause will be void and without effect.
+23 Entire agreement
+
+These terms and conditions supersedes all prior agreements, arrangements and undertakings between the parties and constitutes the entire agreement between the parties relating to the subject matter of these terms and conditions. However the obligations of the parties under any pre-existing non-disclosure agreement shall remain in full force and effect in so far as there is no conflict between the same. The parties confirm that they have not entered into these terms and conditions on the basis of any representation that is not expressly incorporated into these terms and conditions.
+24 Force majeure
+
+Neither party shall have any liability under or be deemed to be in breach of these terms and conditions for any delays or failures in performance of these terms and conditions which result from circumstances beyond the reasonable control of that party. If such circumstances continue for a continuous period of more than 6 months, either party may terminate these terms and conditions by written notice to the other party.
+25 Notices
+
+25.1 All notices under these terms and conditions shall be in writing.
+
+25.2 Notices shall be deemed to have been duly given:
+
+25.2.1 when delivered, if delivered by courier or other messenger (including registered mail) during normal business hours of the recipient; or
+
+25.2.2 when sent, if transmitted by fax or e-mail and a successful transmission report or return receipt is generated; or
+
+25.2.3 on the fifth business day following mailing, if mailed by national ordinary mail, postage prepaid; or
+
+25.2.4 on the tenth business day following mailing, if mailed by airmail, postage prepaid, in each case addressed to the most recent address, e-mail address, or facsimile number notified to the other party.
+26 Schedules
+
+The provisions of Schedules 1.5 shall form part of these terms and conditions as if set out here. 27 Severance
+
+If any provision of these terms and conditions is prohibited by law or judged by a court to be unlawful, void or unenforceable, the provision shall, to the extent required, be severed from these terms and conditions and rendered ineffective as far as possible without modifying the remaining provisions of these terms and conditions, and shall not in any way affect any other circumstances of or the validity or enforcement of these terms and conditions.
+28 Successors and assignees
+
+28.1 These terms and conditions shall be binding upon, and inure to the benefit of, the parties and their respective successors and permitted assignees, and references to a party in these terms and conditions shall include its successors and permitted assignees.
+
+28.2 In these terms and conditions references to a party include references to a person:
+
+28.2.1 who for the time being is entitled (by assignment, novation or otherwise) to that party's rights under these terms and conditions (or any interest in those rights); or
+
+28.2.2 who, as administrator, liquidator or otherwise, is entitled to exercise those rights,
+
+and in particular those references include a person to whom those rights (or any interest in those rights) are transferred or pass as a result of a merger, division, reconstruction or other reorganisation involving that party. For this purpose, references to a party's rights under these terms and conditions include any similar rights to which another person becomes entitled as a result of a novation of these terms and conditions.
+29 Waiver
+
+No delay, neglect or forbearance on the part of either party in enforcing against the other party any term or condition of these terms and conditions shall either be or be deemed to be a waiver or in any way prejudice any right of that party under these terms and conditions. No right, power or remedy in these terms and conditions conferred upon or reserved for either party is exclusive of any other right, power or remedy available to that party.
+30 Counterparts
+
+These terms and conditions may be executed in any number of counterparts or duplicates, each of which shall be an original, and such counterparts or duplicates shall together constitute one and the same agreement.
+31 Time not of the essence
+
+Time shall not be of the essence in these terms and conditions as regards any time, date or period mentioned in these terms and conditions or subsequently substituted as a time, date or period by agreement in writing between the parties.
+32 Sub-contracting
+
+With the prior written consent of the Client (such consent not to be unreasonably withheld or delayed) the Developer may perform any or all of its obligations under these terms and conditions through agents or sub-contractors, provided that the Developer shall remain liable for such performance.
+33 Language
+
+These terms and conditions are made only in the English language. If there is any conflict in the meaning between the English language version of these terms and conditions and any version or translation of it in any other language, the English language version shall prevail.
+34 Costs and expenses
+
+Each party shall bear its own legal costs and other costs and expenses arising in connection with the drafting, negotiation, execution and registration (if applicable) of these terms and conditions.
+35 Third parties
+
+The parties confirm their intent (subject to clause 14.7) not to confer any rights on any third parties by virtue of these terms and conditions and accordingly the Contracts (Rights of Third Parties) Act 1999 shall not apply to these terms and conditions.
+36 Proper law and jurisdiction
+
+Any dispute which may arise between the parties concerning these terms and conditions shall be determined as follows:
+
+36.1 If the dispute shall be of a technical nature relating to the functions or capabilities of the New Software or any similar or related matter then such a dispute shall be referred for final settlement to an expert nominated jointly by the parties or failing such nomination within 14 days after either party's request to the other therefore nominated at the request of either party by the President for the time being of the British Computer Society. Such expert shall be deemed to act as an expert and not as an arbitrator. His decision shall (in the absence of clerical or manifest error) be final and binding on the parties in equal shares unless he determines that the conduct of either party is such that such party should bear all of such fees.
+
+36.2 In any other case the dispute shall be determined by the High Court of Justice in England and the parties submit to the exclusive jurisdiction of that Court for such purposes.
+37 Non-solicitation of Staff
+
+37.1 The Client agrees that during the term of the Contract and for an additional period of 12 months after termination, the Client shall not directly or indirectly canvas with a view to offering or providing employment to, offer to Contract with or entice to leave any employee of or Contractor to Developer engaged in the performance of the Services without the prior written consent of Developer.
